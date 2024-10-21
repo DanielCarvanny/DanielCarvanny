@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there!
+I’m a Bachelor of Information Systems student, currently in my first semester at CEFET.
 
-<!--
-**DanielCarvanny/DanielCarvanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I have foundational knowledge in programming languages like Java, NodeJS, HTML, TypeScript, and Handlebars. I’m also starting to explore Dockerfiles and SQL.
 
-Here are some ideas to get you started:
+💻 I recently developed a simple CRUD microservice using Java and NodeJS, and I'm eager to take on new challenges to deepen my understanding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I have some introductory experience with databases such as MySQL and MongoDB, and I’m getting familiar with IDEs like IntelliJ and VSCode.
+
+🔍 I am curious and motivated, always looking for opportunities to learn more about technology and software development practices.
+
+🌍 I believe in the value of collaboration and am open to contributing to projects, even as I continue to grow my skills.
+
+📫 Feel free to reach out or check out my repositories!
