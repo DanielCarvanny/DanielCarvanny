@@ -3,7 +3,7 @@ I’m a Bachelor of Information Systems student, currently in my first semester 
 
 🌱 I have foundational knowledge in programming languages like Java, NodeJS, HTML, TypeScript, and Handlebars. I’m also starting to explore Dockerfiles and SQL.
 
-💻 I recently developed a simple CRUD microservice using Java and NodeJS, and I'm eager to take on new challenges to deepen my understanding.
+💻 I recently developed a simple CRUD microservice using Java, and I'm eager to take on new challenges to deepen my understanding.
 
 📊 I have some introductory experience with databases such as MySQL and MongoDB, and I’m getting familiar with IDEs like IntelliJ and VSCode.
 
