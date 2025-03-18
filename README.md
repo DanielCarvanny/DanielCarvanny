@@ -1,5 +1,5 @@
 👋 Hi there!
-I’m a Bachelor of Information Systems student, currently in my first semester at CEFET.
+I’m a Bachelor of Information Systems student, currently in my Second semester at CEFET.
 
 🌱 I have foundational knowledge in programming languages like Java, NodeJS, HTML, TypeScript, and Handlebars. I’m also starting to explore Dockerfiles and SQL.
 
